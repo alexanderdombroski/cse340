@@ -1,0 +1,6 @@
+[submodule "cse340-deno-firstapp"]
+	path = cse340-deno-firstapp
+	url = ./cse340-deno-firstapp
+[submodule "cse340-express-firstapp"]
+	path = cse340-express-firstapp
+	url = ./cse340-express-firstapp
