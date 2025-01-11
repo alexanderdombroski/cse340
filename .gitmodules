@@ -1,6 +1,6 @@
 [submodule "cse340-deno-firstapp"]
 	path = cse340-deno-firstapp
-	url = ./cse340-deno-firstapp
+	url = https://github.com/alexanderdombroski/cse340-deno-firstapp.git
 [submodule "cse340-express-firstapp"]
 	path = cse340-express-firstapp
-	url = ./cse340-express-firstapp
+	url = https://github.com/alexanderdombroski/cse340-express-firstapp.git
